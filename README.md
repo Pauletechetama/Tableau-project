@@ -17,4 +17,4 @@ In my Tableau story i have done exploration on the goegraphic data, string data 
 
 # Summary
 From the visialization The united States emits the largest amount of Co2 followed by China, Japan and Russia. This can be clearly seen due the measure introduced in the chart. From the link below you can view the data visualzation.
-# https://public.tableau.com/app/profile/paulet.echetama
+# https://public.tableau.com/views/co2emissionvisualizationproject/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
